@@ -14,6 +14,11 @@
 
 <main>
   <p>
+    <a href="https://restorewoundcare.com/"
+      ><img src="restore-medical-group-logo.png" alt="Restore Wound Care" /></a
+    >
+  </p>
+  <p>
     Welcome to the home for the new Restore Medical Group – offering groundbreaking treatments in
     mobile healthcare.
   </p>
