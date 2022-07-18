@@ -14,9 +14,7 @@
 
 <main>
   <p>
-    <a href="https://restorewoundcare.com/"
-      ><img src="restore-medical-group-logo.png" alt="Restore Wound Care" /></a
-    >
+    <img src="restore-medical-group-logo.png" alt="Restore Wound Care" />
   </p>
   <p>
     Welcome to the home for the new Restore Medical Group – offering groundbreaking treatments in
@@ -33,7 +31,7 @@
     text-align: center;
   }
   header {
-    background-color: #19f;
+    background-color: #dbf3fa;
   }
   main {
     max-width: 420px;
@@ -48,6 +46,6 @@
     margin-bottom: 1rem;
   }
   a {
-    color: white;
+    color: #19f;
   }
 </style>
